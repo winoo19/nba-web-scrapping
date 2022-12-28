@@ -1,0 +1,5 @@
+1. Register into api.sportsdata.io
+2. Copy the key provided
+3. Copy the key in the variable called KEY at the top of the file "api.py"
+4. Check that you have internet connection
+5. Run the file!
